@@ -1,5 +1,9 @@
+import ExperienceBar from "../components/ExperienceBar";
+
 export default function Home() {
   return (
-    <h1>Hollo World</h1>
+    <div className="container">
+      <ExperienceBar />
+    </div>
   )
 }
