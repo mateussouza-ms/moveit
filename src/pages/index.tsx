@@ -1,3 +1,5 @@
+import React from "react";
+
 import ExperienceBar from "../components/ExperienceBar";
 
 export default function Home() {
@@ -5,5 +7,5 @@ export default function Home() {
     <div className="container">
       <ExperienceBar />
     </div>
-  )
+  );
 }
