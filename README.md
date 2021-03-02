@@ -3,10 +3,10 @@
 Este é um projeto desenvolvido no Next Level Week, um evento de programação realizado pela Rocketseat do dia 22 a 28 de fevereiro de 2021.
 <br/> <br/> 
 ## :computer: Aplicação desenvolvida
-Foi desenvolvida um aplicação web com ReactJS e Next.js.
-<br/> A aplicação tem o objetivo de estimular pessoas que passam muito tempo na frente de um computardor a realizar pequenos exercícios. A cada determinado intervalo de tempo são propostos desafios de exercísios e a cada desafio concluído o usuário aumenta sua esperiência.
+Foi desenvolvida uma aplicação web com ReactJS e Next.js.
+<br/> A aplicação tem o objetivo de estimular pessoas que passam muito tempo na frente de um computador a realizar pequenos exercícios. A cada determinado intervalo de tempo são propostos desafios de exercícios e a cada desafio concluído o usuário aumenta sua experiência.
 <br/> <br/> 
-## 🛠 Tecnologias utilzadas
+## 🛠 Tecnologias utilizadas
 ![ReactJS](https://img.shields.io/badge/ReactJS-17.0.1-green)
 ![Next.js](https://img.shields.io/badge/Next.js-10.0.7-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.2.2-green)
