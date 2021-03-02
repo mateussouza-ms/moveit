@@ -9,7 +9,7 @@ Foi desenvolvida um aplicação web com ReactJS e Next.js.
 ## 🛠 Tecnologias utilzadas
 ![ReactJS](https://img.shields.io/badge/ReactJS-17.0.1-green)
 ![Next.js](https://img.shields.io/badge/Next.js-10.0.7-green)
-![typescript](https://img.shields.io/badge/typescript-4.2.2-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.2.2-green)
 ![ContextAPI](https://img.shields.io/badge/Context_API-17.0.1-green)
 <br/> <br/> 
 ## :pager: Design da aplicação
