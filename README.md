@@ -17,4 +17,4 @@ A imagem abaixo ilustra a página Home com os principais componentes da aplicaç
 <img width="800" src="https://user-images.githubusercontent.com/63478857/109574558-ee9c3b80-7ace-11eb-8f46-c81885f0131d.jpg"></img>
 <br/> <br/> 
 ## 🌐 Deploy
-A aplicação foi publicada na Vercel. Você pode visualizá-la através do link https://moveit-mateussouza.vercel.app.
+A aplicação foi publicada na Vercel. Você pode visualizá-la através do link https://moveit-ms.vercel.app.
