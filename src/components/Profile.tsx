@@ -1,6 +1,7 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { ChallengesContext } from "../contexts/ChallengesContext";
 
+import Image from "next/image";
 import styles from "../styles/components/Profile.module.css";
 
 export default function Profile() {
@@ -8,11 +9,15 @@ export default function Profile() {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/mateussouza-ms.png" alt="Mateus Souza" />
+      <Image
+        src="https://github.com/mateussouza-ms.png"
+        loader={({ src }) => src}
+        alt="Mateus Souza"
+      />
       <div>
         <strong>Mateus Souza</strong>
         <p>
-          <img src="icons/level.svg" alt="Level" />
+          <Image src="icons/level.svg" alt="Level" />
           Level {level}
         </p>
       </div>

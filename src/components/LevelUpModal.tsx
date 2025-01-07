@@ -1,5 +1,4 @@
-import React from "react";
-
+import Image from "next/image";
 import styles from "../styles/components/LevelUpModal.module.css";
 
 interface LevelUpMoalProps {
@@ -19,7 +18,7 @@ export default function LevelUpModal({
         <p>Você alcançou um novo level</p>
 
         <button type="button" onClick={closeLevelUpModal}>
-          <img src="/icons/close.svg" alt="Fechar modal" />
+          <Image src="/icons/close.svg" alt="Fechar modal" />
         </button>
       </div>
     </div>
